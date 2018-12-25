@@ -1,8 +1,8 @@
 # Smart-Cart
 
-비콘을 활용한 경로 탐색 스마트카트
+#### 비콘을 활용한 경로 탐색 스마트카트
 
-Smartcart to navigate route using Beacon
+#### Smartcart to navigate route using Beacon
 
 
 컴퓨터공학전공
