@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="상품명"
+        android:id="@+id/prdtName"
+        android:textSize="16dp"
+        android:textColor="#000000"
+        android:gravity="center_vertical"
+        android:layout_weight="2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="0개"
+        android:id="@+id/qty"
+        android:textSize="14dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/sm_red"
+        />
+</LinearLayout>
